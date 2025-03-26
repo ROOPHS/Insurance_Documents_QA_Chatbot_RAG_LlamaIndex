@@ -56,18 +56,16 @@ Ensure you have the following installed:
 - Docker (optional, for containerized deployment)
 
 ### Installation
-1. Clone the repo:
-git clone https://github.com/SandeepGitGuy/Insurance_Documents_QA_Chatbot_RAG_LlamaIndex.git
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 cd Insurance_Documents_QA_Chatbot_RAG_LlamaIndex
 
-3. Install the required dependencies:
+2. Install the required dependencies:
 pip install -r requirements.txt
 
 - Please note: OpenAI API keys are required for the project to function.
 
-4. Run the main file from Jupyter environment:
+3. Run the main file from Jupyter environment:
 "Insurance_Doc_llamaindex_RAG.ipynb"
 
 ---
@@ -106,12 +104,3 @@ The Insurance Documents RAG QA Chatbot bridges the gap between users and complex
 Distributed under the MIT License. See `LICENSE` for more information.  
 
 ---  
-
-## 💬 Contact  
-For any queries or feedback, reach out via:  
-
-- **Email**: sandy974278@gmail.com
-- **GitHub**: https://github.com/SandeepGitGuy
-- **LinkedIn**: www.linkedin.com/in/sandeepgowda24a319192
-
----
